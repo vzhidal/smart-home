@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "modbus-serial": "^7.2.3"
+    "config": "^1.30.0",
+    "modbus-serial": "^7.2.3",
+    "mongoose": "^5.2.1"
   }
 }
